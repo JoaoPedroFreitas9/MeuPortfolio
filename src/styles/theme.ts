@@ -1,7 +1,8 @@
-export const theme = {
-  background: "#000000", // Fundo preto
-  text: "#FFFFFF", // Texto branco
-  primary: "#00AFFF", // Azul claro
-  primaryHover: "#0096E6", // Azul mais escuro
-  buttonText: "#FFFFFF", // Texto do botão branco
+const theme = {
+  background: "#0D0D0D", // Preto neutro
+  text: "#F5F5F7", // Branco suave
+  highlight: "#D95F18", // Laranja queimado
+  primary: "#BF4417", // Vermelho queimado
+  secondary: "#731D0A", // Vermelho intenso
+  buttonText: "#FFFFFF", // Branco
 };
