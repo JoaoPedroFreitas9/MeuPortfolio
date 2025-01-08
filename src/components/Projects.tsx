@@ -30,9 +30,9 @@ const ProjectCard = styled.div`
 const Projects = () => {
   const projectList = [
     {
-      title: "Projeto 1",
+      title: "FlixMania",
       description: "Descrição breve do projeto 1.",
-      link: "#",
+      link: "https://flixmania.netlify.app/",
     },
     {
       title: "Projeto 2",

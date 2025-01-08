@@ -69,7 +69,7 @@ const Hero = () => {
         <h1>João Pedro Freitas</h1>
         <p>Desenvolvedor Web | Apaixonado por Inovação</p>
         <div className="social-icons">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/JoaoPedroFreitas9" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
