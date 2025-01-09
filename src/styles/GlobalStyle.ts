@@ -56,4 +56,9 @@ export const GlobalStyle = createGlobalStyle`
   }
 }
 
+body {
+  scroll-behavior: smooth;
+}
+
+
 `;

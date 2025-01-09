@@ -37,7 +37,7 @@ const Button = styled.a`
 const Contact = () => {
   return (
     <Section id="contact">
-      <h2>Contato</h2>
+      <h2>Contato </h2><br/>
       <p>Se você quiser saber mais sobre meu trabalho ou colaborar comigo, faça o download do meu currículo abaixo!</p><br/>
       <Button href="/public/João Pedro Freitas - Desenvolvedor Front-End - Curriculo.pdf" download>
         <AiOutlineDownload />
