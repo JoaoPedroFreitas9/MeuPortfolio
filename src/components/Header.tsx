@@ -59,7 +59,7 @@ const Nav = styled.nav`
 const Header = () => {
   return (
     <Nav>
-      <div className="logo">Meu Portfólio</div>
+      <div className="logo">Joao Pedro</div>
       <ul>
         <li>
           <Link to="home" smooth={true} duration={500}>

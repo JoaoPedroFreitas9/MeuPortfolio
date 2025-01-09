@@ -43,4 +43,17 @@ export const GlobalStyle = createGlobalStyle`
   button {
     cursor: pointer;  /* Mostrar o ponteiro do mouse quando o botão for hover */
   }
+
+  @media (max-width: 768px) {
+  .project {
+    flex-direction: column;
+    text-align: center;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
 `;

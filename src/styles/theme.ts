@@ -6,3 +6,4 @@ const theme = {
   secondary: "#731D0A", // Vermelho intenso
   buttonText: "#FFFFFF", // Branco
 };
+export default theme;
