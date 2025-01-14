@@ -72,10 +72,10 @@ const Hero = () => {
           <a href="https://github.com/JoaoPedroFreitas9" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-freitas9/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/joaopedroz7/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
         </div>
